@@ -1,0 +1,2 @@
+179.6.164.14 - - [23/May/2023:11:23:28 -0400] "GET / HTTP/1.1" 301 707 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0"
+179.6.164.14 - - [23/May/2023:11:53:27 -0400] "GET /wp-login.php?redirect_to=https://ovaltechstore.com.pe/wp-admin/&reauth=1&captcha HTTP/1.1" 301 707 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0"

@@ -1,0 +1,431 @@
+# Webalizer V2.23-08 Incremental Data - 05/22/2023 22:50:22
+2023 5 22 22 50 22
+115 6 75 4 5 31 76809 76 67 0
+4 1 12 1 22
+5 0 3535 4 4 4
+3 0 2121 2 2 2
+3 0 2121 2 2 2
+3 0 2121 2 2 2
+3 0 2121 2 2 2
+3 0 2121 2 2 2
+14 0 9898 8 7 7
+2 0 1414 2 2 2
+4 0 2121 3 3 3
+4 0 2828 3 3 3
+3 0 2121 2 2 2
+1 0 707 1 1 1
+4 0 2828 3 3 3
+6 0 4242 5 4 4
+3 0 2121 3 3 3
+9 0 6363 3 8 3
+12 6 4695 9 3 3
+9 0 6363 6 7 6
+2 0 1414 2 1 1
+2 0 1414 2 2 2
+15 0 10605 6 9 6
+5 0 3535 4 4 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+1 0 707 1
+0 0 0 0
+0 0 0 0
+1 0 707 0
+0 0 0 0
+3 0 2121 2
+37 0 26159 25
+18 0 12726 11
+7 0 4949 5
+0 0 0 0
+3 3 192 0
+11 3 5917 6
+1 0 707 1
+2 0 1414 2
+12 0 8484 6
+3 0 2121 3
+1 0 0 1
+0 0 0 0
+0 0 0 0
+3 0 2121 1
+1 0 707 1
+9 0 6363 9
+2 0 1414 2
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+109
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/1NYYS63YDGT3M7YNTB3LOEQAO_V6HDG9
+0 1 3761351213296123904 64 0 0
+/.well-known/acme-challenge/mQ4StG5c61zMsEM4htEdJKp03oTgM8CIBRyIcyauy8c
+0 3 7885630523705876846 261 0 0
+/.well-known/acme-challenge/JBXFKUOUBFZEKREQTO0I01BKL7DRIT34
+0 1 24954272 64 0 0
+/.well-known/acme-challenge/4F8-L92ES8YDHO2XR20W-OH51DML34OB
+0 1 0 64 0 0
+# End Of Table - urls
+# -sites- (monthly)
+outbound1h.letsencrypt.org
+0 1 1 87 0 0
+-
+117.241.172.34.bc.googleusercontent.com
+0 1 0 707 1 1683587570
+-
+95.94.225.35.bc.googleusercontent.com
+0 1 0 707 0 0
+-
+55.96.76.34.bc.googleusercontent.com
+0 1 0 707 1 1684544670
+-
+177.97.226.35.bc.googleusercontent.com
+0 1 0 707 1 1684191904
+-
+ec2-54-213-240-34.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684570463
+-
+ec2-54-184-249-164.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683272629
+-
+ec2-54-202-21-115.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684655546
+-
+ec2-54-71-56-68.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683097732
+-
+ec2-54-202-26-232.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684241016
+-
+ec2-52-39-145-160.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684050094
+-
+ec2-34-213-149-221.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683445232
+-
+crawl-66-249-70-95.googlebot.com
+0 1 0 707 0 0
+-
+crawl-66-249-70-119.googlebot.com
+0 1 0 707 1 1683471951
+-
+ec2-54-68-106-106.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1684746429
+-
+crawl-66-249-70-136.googlebot.com
+0 1 0 707 0 0
+-
+ec2-52-12-157-146.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683726957
+-
+ec2-35-86-127-225.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683618206
+-
+139.5.188.35.bc.googleusercontent.com
+0 1 0 707 1 1684795822
+-
+ec2-44-242-155-173.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684445041
+-
+ec2-35-88-243-91.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1684423150
+-
+server009.workserverdc.com
+0 3 3 192 0 0
+-
+ec2-34-203-236-213.compute-1.amazonaws.com
+0 2 0 1414 1 1684395724
+-
+ec2-52-51-218-89.eu-west-1.compute.amazonaws.com
+0 2 0 1414 1 1684687078
+-
+crawl-66-249-70-138.googlebot.com
+0 1 0 707 1 1684313678
+-
+ec2-34-217-208-19.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684188901
+-
+ec2-54-191-182-89.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683191498
+-
+ec2-35-91-213-106.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683097762
+-
+ec2-54-217-83-13.eu-west-1.compute.amazonaws.com
+0 1 0 707 1 1684687297
+-
+ec2-34-213-144-78.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684423137
+-
+185.210.19.184
+0 1 0 707 1 1684397739
+-
+ec2-34-220-50-250.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684137058
+-
+ec2-34-208-109-26.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1684655584
+-
+ec2-34-209-180-81.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683705974
+-
+ec2-35-90-112-38.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1682926458
+-
+ec2-34-220-213-58.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683016394
+-
+ec2-18-246-32-124.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683790611
+-
+crawl-66-249-70-87.googlebot.com
+0 1 0 707 1 1684094827
+-
+82.180.147.239
+0 1 0 707 1 1684735962
+-
+ec2-34-209-154-11.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683445246
+-
+ec2-52-88-254-113.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683272594
+-
+ec2-18-223-172-215.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-54-200-230-200.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1684326732
+-
+static.147.10.13.49.clients.your-server.de
+0 1 0 707 1 1684057343
+-
+146.84.128.34.bc.googleusercontent.com
+0 1 0 707 1 1683896387
+-
+ec2-3-238-35-37.compute-1.amazonaws.com
+0 2 0 1414 1 1684397064
+-
+102.214.22.66
+0 1 0 707 0 0
+-
+ec2-35-163-97-187.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683618174
+-
+ec2-34-216-214-235.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683445270
+-
+ec2-3-96-43-129.ca-central-1.compute.amazonaws.com
+0 1 0 0 1 1683651845
+-
+ec2-35-93-48-140.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1684050142
+-
+10.10.122.34.bc.googleusercontent.com
+0 1 0 707 1 1682980664
+-
+ec2-52-24-68-70.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1682926498
+-
+ec2-34-220-113-26.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683016367
+-
+ec2-54-190-193-43.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684746386
+-
+ec2-35-91-59-33.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-34-221-144-39.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683964089
+-
+crawl-149-56-150-43.dataproviderbot.com
+0 5 0 3535 1 1683446814
+-
+ec2-3-23-79-40.us-east-2.compute.amazonaws.com
+0 6 0 4242 1 1684276928
+-
+ec2-35-92-182-207.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683706011
+-
+crawl-66-249-70-121.googlebot.com
+0 3 0 2121 1 1684652243
+-
+208.253.206.35.bc.googleusercontent.com
+0 7 0 4949 1 1684681908
+-
+ec2-34-221-149-97.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683191463
+-
+crawl-144-217-135-136.dataproviderbot.com
+0 1 0 707 1 1683446856
+-
+137.184.220.40
+0 1 0 707 1 1684508170
+-
+ec2-34-209-152-191.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683359914
+-
+ec2-34-219-226-106.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683445208
+-
+ec2-34-221-247-140.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683359889
+-
+ec2-35-166-42-251.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1683964043
+-
+ec2-34-213-73-37.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684326717
+-
+ec2-52-10-99-225.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1682951299
+-
+ec2-34-221-219-121.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683790659
+-
+ec2-34-214-123-72.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1684241059
+-
+ec2-34-219-171-240.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1683964128
+-
+ec2-54-147-120-52.compute-1.amazonaws.com
+0 1 0 707 1 1683548529
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-54-68-106-106.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1684746429
+-
+139.5.188.35.bc.googleusercontent.com
+0 1 0 707 1 1684795822
+-
+82.180.147.239
+0 1 0 707 1 1684735962
+-
+ec2-54-190-193-43.us-west-2.compute.amazonaws.com
+0 1 0 707 1 1684746386
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://ovaltechstore.com.pe
+0 2
+http://facebook.com//twitter.com//vk.com
+0 1
+- (Direct Request)
+0 109
+http://yandex.ru//google.com//bing.com
+0 2
+http://yandex.ru/clck/jsredir//google.com//bing.com/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/3eZNDnO; 33eb13d6
+0 7
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20130401 Firefox/21.0
+0 1
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 8.1; Trident/5.0)
+0 1
+webprosbot/2.0 (+mailto:abuse-6337@webpros.com)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 1
+Go-http-client/1.1
+0 2
+Mozilla/5.0 (Windows; Windows NT 8.1; rv:49.0) Gecko/20100720 Firefox/49.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 1
+Opera/9.80 (Windows NT 10.0; Safari/537.36 OPR/52.0.2871.99; ru)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 57
+Opera/9.80 (Windows NT 5.1; U; zh-sg) Presto/2.9.181 Version/12.00
+0 1
+Cpanel-HTTP-Client/1.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.92 Mobile 
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96
+0 1
+Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+0 1
+python-requests/2.28.2
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; sv-se) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.2
+0 1
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,65 @@
+Return-Path: <>
+Delivered-To: jcbjgiyj@server009.workserverdc.com
+Received: from server009.workserverdc.com
+	by server009.workserverdc.com with LMTP
+	id 6F7gKMDaZWMIfwAARwLzIg
+	(envelope-from <>)
+	for <jcbjgiyj@server009.workserverdc.com>; Fri, 04 Nov 2022 23:38:40 -0400
+Return-path: <>
+Envelope-to: jcbjgiyj@server009.workserverdc.com
+Delivery-date: Fri, 04 Nov 2022 23:38:40 -0400
+Received: from mailnull by server009.workserverdc.com with local (Exim 4.95)
+	id 1orA12-0008Vc-LB
+	for jcbjgiyj@server009.workserverdc.com;
+	Fri, 04 Nov 2022 23:38:40 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server009.workserverdc.com>
+To: jcbjgiyj@server009.workserverdc.com
+References: <E1orA12-0008VX-7H@server009.workserverdc.com>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1orA12-0008Vc-LB@server009.workserverdc.com>
+Date: Fri, 04 Nov 2022 23:38:40 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from jcbjgiyj by server009.workserverdc.com with local (Exim 4.95)
+	(envelope-from <jcbjgiyj@server009.workserverdc.com>)
+	id 1orA12-0008VX-7H
+	for ovaltechstore1639@gmail.com;
+	Fri, 04 Nov 2022 23:38:40 -0400
+To: ovaltechstore1639@gmail.com
+Subject: =?UTF-8?B?TmV3IEluc3RhbGxhdGlvbiBvZiBXb3JkUHJlc3M=?=
+X-PHP-Script: server009.workserverdc.com/usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/index.live.php for 190.239.94.48
+X-PHP-Originating-Script: 0:mail_functions.php
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+From: Softaculous <>
+Reply-To: 
+Return-Path: 
+X-Mailer: PHP/7.4.30
+Message-Id: <E1orA12-0008VX-7H@server009.workserverdc.com>
+Date: Fri, 04 Nov 2022 23:38:40 -0400
+
+A new installation of WordPress 6.1 has been completed. The details of the installation are shown below:
+Path : /home/jcbjgiyj/public_html
+URL : https://ovaltechstore.com.pe
+Admin URL : https://ovaltechstore.com.pe/wp-admin/
+Admin Username : admin
+Admin Password : ********
+Admin Email: admin@ovaltechstore.com.pe
+MySQL Database : jcbjgiyj_wp66
+MySQL DB User : jcbjgiyj_wp66
+MySQL DB Host : localhost
+MySQL DB Password : ********
+Update Notification : Enabled
+Auto Upgrade : Disabled
+Automated Backups : Disabled
+Time of Installation : November 4, 2022, 11:38 pm
+
+If you wish to unsubscribe from such emails, go to your Control Panel -> Softaculous -> Email Settings
+

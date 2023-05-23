@@ -1,0 +1,535 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/jcbjgiyj/tmp/awstats/ssl/awstats.ovaltechstore.com.pe.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2703                
+POS_VISITOR 8783                
+POS_DAY 14392               
+POS_DOMAIN 3513                
+POS_LOGIN 3822                
+POS_ROBOT 3977                
+POS_WORMS 4578                
+POS_EMAILSENDER 4709                
+POS_EMAILRECEIVER 4852                
+POS_SESSION 15034               
+POS_SIDER 15245               
+POS_FILETYPES 4987                
+POS_DOWNLOADS 5256                
+POS_OS 5357                
+POS_BROWSER 5644                
+POS_SCREENSIZE 6229                
+POS_UNKNOWNREFERER 6303                
+POS_UNKNOWNREFERERBROWSER 6790                
+POS_ORIGIN 7214                
+POS_SEREFERRALS 7354                
+POS_PAGEREFS 7553                
+POS_SEARCHWORDS 7701                
+POS_KEYWORDS 7853                
+POS_MISC 2367                
+POS_ERRORS 7912                
+POS_CLUSTER 3678                
+POS_SIDER_404 8042                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230523021004 169 46049 10221364632177
+FirstTime 20230501010324
+LastTime 20230523021004
+LastUpdate 20230523082427 169 0 169 0 0
+TotalVisits 310                 
+TotalUnique 134                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 146                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 49 141 881948 16 74 1020582
+1 172 172 579824 20 80 837987
+2 95 157 1402106 13 34 434060
+3 17 17 0 13 22 295242
+4 23 23 0 20 84 845605
+5 18 18 0 16 93 881952
+6 18 18 28515 14 42 394578
+7 64 64 875508 7 36 284804
+8 64 186 3689389 13 56 732969
+9 30 30 357074 7 18 266399
+10 17 17 0 15 51 630943
+11 58 273 2738219 17 107 930888
+12 49 49 406443 17 63 1084470
+13 26 26 142964 9 48 431683
+14 80 295 3495100 23 129 1882817
+15 21 102 576777 11 45 567698
+16 32 32 87053 9 71 870474
+17 36 151 1390759 18 120 1178957
+18 7 7 0 5 47 434980
+19 27 116 738887 19 198 1522818
+20 51 305 3463759 16 108 1304070
+21 18 18 262108 4 24 261505
+22 46 308 3215723 13 97 886982
+23 43 43 327948 10 168 1097381
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 918 1424 11851109
+pe 132 1041 11841021
+la 8 100 764706
+ru 1 1 28540
+in 1 1 146213
+dk 1 1 28515
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bingbot/ 731 9442638 20230523015819 14
+Googlebot/ 704 4023906 20230522224146 22
+bot[\s_+:,\.\;\/\\-] 151 2868828 20230521150537 23
+facebookexternalhit/ 30 622975 20230502204603 0
+bingpreview 18 468473 20230518195201 0
+Googlebot\-Image/ 8 265624 20230516234356 0
+unknown 5 598 20230521151046 5
+Applebot/ 4 25568 20230508224313 2
+no_user_agent 4 0 20230521011445 0
+nbot 2 28661 20230513190142 1
+survey 1 46935 20230511060832 0
+Go\-http\-client/ 1 28559 20230518074204 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 378 2402211 0 0
+php 633 3882 0 0
+woff2 29 2358164 0 0
+ttf 30 865186 0 0
+woff 1 14176 0 0
+xml 1 844 0 0
+jpg 479 9119363 0 0
+js 649 2907562 0 0
+txt 1 10206 0 0
+Unknown 45 13421 0 0
+html 322 6965089 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/plugins/woocommerce/readme.txt 1 0 10206
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+macosx11 1 1
+android 258 43
+winxp 2 2
+macosx 1 1
+win10 938 99
+linux 68 68
+winnt 17 1
+ios_iphone 132 10
+macosx10 1 1
+android10 98 7
+Unknown 942 810
+macosx6 1 1
+win7 5 5
+macosx8 1 1
+win8.1 1 1
+androidpie 100 8
+macosx15 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+opera98.0.0.0 166 11
+chrome98.0.4758.80 1 1
+chrome22.0.1216.0 4 4
+safari5.0.4 1 1
+firefox113.0 248 33
+chrome80.0.3987.162 1 1
+chrome83.0.4103.97 67 67
+firefox40.1 1 1
+firefox52.0 1 1
+safari16.1 132 10
+chrome112.0.0.0 95 6
+chrome84.0.4147.105 83 3
+firefox21.0 1 1
+chrome60.0.3112.113 1 1
+chrome95.0.4638.54 1 1
+chrome108.0.0.0 1 1
+chrome113.0.0.0 443 52
+Unknown 801 791
+chrome26.0.1410.65 1 1
+chrome98.0.4758.87 258 43
+chrome91.0.4472.101 1 1
+chrome93.0.4577.82 100 8
+msie11.0 17 1
+opera12.00 1 1
+mozilla 141 19
+chrome39.0.2171.95 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+WordPress/6.2;_https://ovaltechstore.com.pe 20230517011525
+cortex/1.0 20230502204533
+WordPress/6.2.2;_https://ovaltechstore.com.pe 20230523021004
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230507080739
+WordPress/6.2.1;_https://ovaltechstore.com.pe 20230521011432
+WhatsApp/2.23.9.75_A 20230515171544
+Jetpack_by_WordPress.com 20230523011132
+WordPress.com;_https://ovaltechstore.com.pe 20230511142818
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+WhatsApp/2.23.9.75_A 20230515171544
+WordPress/6.2.1;_https://ovaltechstore.com.pe 20230521011432
+Jetpack_by_WordPress.com 20230523011132
+WordPress.com;_https://ovaltechstore.com.pe 20230511142818
+WordPress/6.2;_https://ovaltechstore.com.pe 20230517011525
+WordPress/6.2.2;_https://ovaltechstore.com.pe 20230523021004
+cortex/1.0 20230502204533
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 814 868
+From1 0 0
+From2 9 26
+From3 0 0
+From4 238 1674
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com_pe 0 1
+yandexru 0 16
+www_google_com 9 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 74 1255237
+302 1 683
+301 20 0
+405 1 46
+500 1 1113
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 9
+/humans.txt 1 https://www.ovaltechstore.com.pe/humans.txt
+/security.txt 1 https://www.ovaltechstore.com.pe/security.txt
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 1 -
+/.well-known/security.txt 1 https://www.ovaltechstore.com.pe/.well-known/security.txt
+/app-ads.txt 1 -
+/ads.txt 3 https://www.ovaltechstore.com.pe/ads.txt
+/shop/ 1 -
+/checkout/ 1 -
+/wp-content/uploads/2022/11/My-project-1-e1667650597681.png 64 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 146
+69.46.23.98 716 716 1628977 20230523021004 20230523011110 /wp-cron.php
+192.0.86.84 36 36 66822 20230511025740
+179.6.100.189 34 302 3471598 20230516021759
+179.6.56.110 33 248 3401751 20230519142744
+149.56.150.43 12 12 1600479 20230507080717
+200.48.251.162 12 134 1627083 20230522110621
+192.0.115.196 11 11 35249 20230511142828
+38.25.15.97 11 166 2008986 20230505221727
+190.239.88.11 10 103 886355 20230516114239
+190.234.141.33 10 132 1653841 20230502204723
+144.217.135.136 8 130 1625145 20230507080740
+183.182.116.38 8 100 764706 20230517000031
+192.0.86.85 7 7 19220 20230511025656
+190.239.92.63 6 6 1636 20230503160843
+179.6.18.130 6 95 738887 20230509190903
+190.239.95.156 6 6 388 20230504161206
+3.238.35.37 4 4 114208 20230518080424
+190.234.141.85 3 3 182 20230502220619
+179.6.202.250 3 3 57844 20230518211039
+69.171.251.4 3 46 598563 20230502204455
+69.171.251.9 3 36 467656 20230502204453
+35.206.253.208 3 83 415321 20230521151111
+69.171.251.10 2 11 107953 20230502204455
+69.171.251.2 2 38 450411 20230502204453
+52.51.218.89 2 2 57121 20230521163758
+66.249.85.40 1 1 19281 20230518210652
+35.166.42.251 1 1 7055 20230513074726
+35.86.85.201 1 1 28546 20230510080617
+69.171.251.8 0 1 1457 
+69.171.251.14 0 1 8116 
+185.210.19.184 1 1 28540 20230518081540
+190.239.93.95 1 1 182 20230516120053
+66.249.66.67 1 1 11793 20230512230619
+192.0.100.244 1 1 607 20230519000014
+69.171.251.117 0 1 12137 
+54.202.197.220 1 1 28565 20230504091141
+45.5.69.69 0 1 18698 
+49.13.10.147 1 1 146213 20230514094255
+52.88.254.113 1 1 28546 20230505074317
+35.160.154.185 1 1 28530 20230512083956
+192.0.100.17 1 1 659 20230516011142
+54.189.163.203 1 1 28542 20230501073504
+69.171.251.7 0 1 12124 
+35.88.243.91 1 1 28554 20230518151911
+173.252.95.17 0 1 20299 
+192.0.101.186 1 1 656 20230513010054
+54.184.91.111 1 1 28552 20230519083858
+34.220.47.149 1 1 28551 20230516124346
+69.171.251.19 0 1 19502 
+54.185.81.118 1 1 28548 20230501073422
+35.87.208.67 1 1 28546 20230511073655
+34.208.109.26 1 1 11017 20230521075307
+34.220.213.58 1 1 28547 20230502083316
+54.200.230.200 1 1 28552 20230517123212
+192.0.100.197 1 1 658 20230510011121
+54.244.140.253 1 1 28550 20230515075117
+35.90.180.20 1 1 28540 20230502083325
+35.85.50.121 1 1 7055 20230506075811
+69.171.251.13 0 1 17929 
+192.0.101.208 1 1 606 20230504011041
+34.221.246.213 1 1 28558 20230517123159
+18.236.199.21 1 1 28551 20230516124331
+34.209.154.11 1 1 28545 20230507074051
+34.209.180.81 1 1 28546 20230510080617
+190.239.89.151 1 1 182 20230519005535
+44.242.155.173 1 1 146237 20230518212404
+54.190.193.43 1 1 28542 20230522090629
+192.0.102.48 1 1 659 20230520004615
+137.184.220.40 1 1 28552 20230519145610
+34.219.171.240 1 1 11011 20230513074850
+173.252.95.18 0 1 17798 
+192.0.102.53 1 1 655 20230515001959
+190.239.92.100 1 1 182 20230519165706
+54.191.17.45 1 1 28539 20230511073716
+34.221.219.121 1 1 28539 20230511073741
+192.0.101.214 1 1 656 20230501010345
+52.10.99.225 1 1 28536 20230501142820
+34.221.149.97 1 1 28548 20230504091109
+54.217.83.13 1 1 28556 20230521164137
+192.0.99.44 1 1 606 20230517234904
+34.213.149.221 1 1 28545 20230507074032
+35.88.22.70 1 1 28542 20230522090639
+192.0.99.196 1 1 657 20230505011025
+54.213.240.34 1 1 7057 20230520081428
+54.191.182.89 1 1 28548 20230504091139
+173.252.111.2 0 1 17055 
+54.68.106.106 1 1 11017 20230522090710
+18.246.32.124 1 1 28539 20230511073656
+35.90.105.99 1 1 28544 20230509074257
+34.219.226.106 1 1 28545 20230507074011
+54.190.33.102 1 1 28560 20230521074853
+35.189.247.98 1 1 28558 20230517130808
+3.23.79.40 1 17 384688 20230516223331
+192.0.96.207 1 1 609 20230509005534
+34.213.73.37 1 1 28576 20230517123158
+190.239.88.170 1 1 182 20230520135406
+54.147.120.52 1 1 6307 20230508122209
+192.0.96.209 1 1 611 20230514011126
+34.209.152.191 1 1 28543 20230506075835
+173.252.95.13 0 1 13254 
+35.86.127.225 1 1 28538 20230509074327
+54.203.61.31 1 1 28539 20230512084215
+192.0.102.198 1 1 609 20230521011407
+35.92.96.128 1 1 28540 20230502083249
+54.68.15.194 1 1 28539 20230503070910
+52.39.145.160 1 1 28533 20230514074137
+34.217.215.7 1 1 28540 20230518151857
+34.213.144.78 1 1 28554 20230518151859
+192.0.102.111 1 1 607 20230506235218
+192.0.100.233 1 1 656 20230508011038
+190.239.93.111 1 1 182 20230519210002
+82.180.147.239 1 1 28515 20230522061242
+52.24.68.70 1 1 11011 20230501073500
+54.202.246.65 1 1 11002 20230513074728
+192.0.99.185 1 1 656 20230523011132 20230523011132 /
+52.33.228.241 1 1 28552 20230519084006
+52.89.218.0 1 1 11011 20230505074331
+34.221.211.130 1 1 28554 20230518151930
+34.214.123.72 1 1 28542 20230516124419
+35.91.213.106 1 1 28548 20230503070924
+173.252.79.21 0 1 17125 
+34.217.48.244 1 1 28551 20230522090729
+34.221.247.140 1 1 28549 20230506075812
+54.202.26.232 1 1 28551 20230516124338
+54.71.56.68 1 1 28548 20230503070856
+34.220.113.26 1 1 28531 20230502083249
+34.228.53.120 1 1 24873 20230517114956
+192.0.99.41 1 1 606 20230522011107
+54.202.21.115 1 1 28577 20230521075229
+35.90.112.38 1 1 28548 20230501073421
+35.92.57.185 1 1 28548 20230504091107
+190.234.141.7 1 1 182 20230519012139
+190.234.140.89 1 1 182 20230516121713
+54.185.184.206 1 1 28548 20230503070844
+35.91.215.82 1 1 28560 20230521074826
+190.239.89.122 1 1 182 20230516164559
+35.163.97.187 1 1 28544 20230509074258
+192.0.101.160 1 1 659 20230511011105
+34.221.144.39 1 1 28542 20230513074814
+192.0.102.17 1 1 658 20230502235403
+52.33.87.235 1 1 28537 20230510080646
+34.216.214.235 1 1 28545 20230507074111
+66.249.85.37 2 2 38564 20230518211039
+34.220.50.250 1 1 7055 20230515075104
+190.234.75.60 1 1 0 20230518225700
+35.88.213.62 1 1 28541 20230515075150
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20230501 42 42 211554 17
+20230502 67 321 3607418 19
+20230503 52 52 144404 15
+20230504 44 44 172363 14
+20230505 45 200 2134921 14
+20230506 34 34 236105 14
+20230507 53 175 3368350 15
+20230508 30 30 64164 9
+20230509 44 133 882323 13
+20230510 31 31 143457 11
+20230511 89 89 293298 14
+20230512 32 32 125984 9
+20230513 26 26 115435 10
+20230514 30 30 346715 9
+20230515 59 265 2277500 14
+20230516 73 244 2788268 20
+20230517 52 144 961658 17
+20230518 46 46 575985 21
+20230519 78 294 3536058 16
+20230520 35 35 65072 10
+20230521 47 127 769769 14
+20230522 41 163 1810029 13
+20230523 11 11 29274 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 13
+1h+ 36
+0s-30s 205
+30mn-1h 26
+30s-2mn 13
+2mn-5mn 8
+5mn-15mn 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 37
+/wp-cron.php 502 0 172 142
+/ 275 6053076 123 122
+/wp-admin/admin-ajax.php 129 3840 0 28
+/wp-json/jetpack/v4/sync/spawn-sync 44 1628 1 3
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 11 844404 1 0
+/wp-content/themes/top-store/third-party/fonts/site-font/Lato-Regular.ttf 11 384857 1 1
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 11 860156 0 1
+/wp-content/themes/top-store/third-party/fonts/site-font/Lato-Bold.ttf 11 377641 0 0
+/producto/creative-outlier-pro-true-wireless-60hours/ 9 174777 2 2
+/producto/creative-outlier-air-v3-auriculares-bluetooth-5-2-40hours/ 7 140176 2 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 7 653604 0 0
+/wp-content/themes/top-store/third-party/fonts/th-icon/fonts/th-icon.ttf 7 89852 0 1
+/producto/silla-gamer-teraware-sgt4gro-gas-clase-2-negro-y-rojo/ 6 115689 3 3
+/categoria-producto/perifericos/ 3 58997 0 0
+/carrito/ 2 93301 0 0
+/categoria-producto/perifericos/page/2/ 2 36283 0 0
+/categoria-producto/tarjetas-graficas-procesadores-ram/ 2 38982 0 1
+/producto/asus-rog-g15-r7-4800h-16gb-512sd-rtx3050-4gb-moch-mous-web/ 2 38803 1 0
+/wp-admin/upgrade.php 2 42 0 0
+/producto/disco-solido-interno-kingston-sa400s37-960g-960gb/ 1 19128 0 0
+/wp-json/wc/v3 1 11793 1 1
+/producto/disco-duro-interno-seagate-barracuda-st2000dm008-2tb-plata/ 1 19118 0 0
+/producto/monitor-lg-27gp750-27-ips-240hz-1ms-gsync-fsync-hdr10-color/ 1 0 1 1
+/producto/case-gamer-4-rgb/ 1 18992 0 0
+/wp-sitemap.xml 1 844 0 0
+/wp-content/themes/top-store/third-party/fonts/th-icon/fonts/th-icon.ttf 1 12836 0 0
+/producto/monitor-curvo-49-240hz-1ms-5k-g-sync-qled-samsung-odyssey-g9/ 1 19128 1 0
+/categoria-producto/laptop-gamer/ 1 18562 0 0
+/tienda/ 1 20571 0 0
+/feed/ 1 760 0 0
+/categoria-producto/monitores-placas-madre-refrigeracion-liquida/ 1 19456 0 0
+/producto/parlante-gamer-creative-sound-blaster-x-katana-rgb/ 1 19320 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 1 14176 0 0
+/producto/tarjeta-grafica-geforce-gtx-1660-super-gaming-x-msi/ 1 19268 1 0
+/comments/feed/ 1 401 0 0
+/producto/silla-de-escritorio-cougar-armor-s-gamer-ergonomica-negra-y-naranja-con-tapizado-de-cuero-sintetico/ 1 21788 0 1
+/categoria-producto/tarjetas-graficas-procesadores-ram/page/2/ 1 18513 0 1
+END_SIDER

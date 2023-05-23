@@ -1,0 +1,39 @@
+Return-Path: <jcbjgiyj@server009.workserverdc.com>
+Delivered-To: jcbjgiyj@server009.workserverdc.com
+Received: from server009.workserverdc.com
+	by server009.workserverdc.com with LMTP
+	id VOgqMkwDZGMcCgAARwLzIg
+	(envelope-from <jcbjgiyj@server009.workserverdc.com>)
+	for <jcbjgiyj@server009.workserverdc.com>; Thu, 03 Nov 2022 14:07:08 -0400
+Return-path: <jcbjgiyj@server009.workserverdc.com>
+Envelope-to: admin@ovaltechstore.com.pe
+Delivery-date: Thu, 03 Nov 2022 14:07:08 -0400
+Received: from jcbjgiyj by server009.workserverdc.com with local (Exim 4.95)
+	(envelope-from <jcbjgiyj@server009.workserverdc.com>)
+	id 1oqecO-0000fY-PM
+	for admin@ovaltechstore.com.pe;
+	Thu, 03 Nov 2022 14:07:08 -0400
+To: admin@ovaltechstore.com.pe
+Subject: New WordPress Site
+Date: Thu, 3 Nov 2022 18:07:08 +0000
+From: WordPress <wordpress@ovaltechstore.com.pe>
+Message-ID: <xFW3tEJWc0pYm5sQt1zfvdAv5J2KaNCMlOulaF4jFlM@ovaltechstore.com.pe>
+X-Mailer: PHPMailer 6.6.5 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Your new WordPress site has been successfully set up at:
+
+https://ovaltechstore.com.pe
+
+You can log in to the administrator account with the following information:
+
+Username: admin_pv03udxj
+Password: The password you chose during installation.
+Log in here: https://ovaltechstore.com.pe/wp-login.php
+
+We hope you enjoy your new site. Thanks!
+
+--The WordPress Team
+https://wordpress.org/
+
